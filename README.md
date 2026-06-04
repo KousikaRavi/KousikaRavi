@@ -88,8 +88,8 @@ SAP Functional Consultant        MBA Business Analytics        Data Portfolio
 
 ## 🤝 Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/kousika-ravi/]
-- **Email:** [kousikaravisugan@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/kousika-ravi/
+- **Email:** kousikaravisugan@gmail.com
 
 ---
 
