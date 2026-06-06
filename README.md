@@ -89,7 +89,7 @@ Enterprise analytics simulation inspired directly by my Toyota DMS experience �
 
 Planted anomalies: West region revenue outlier · V-Max mast defect cluster · fraudulent dealer duplicate claims
 
-📁 *(GitHub repo coming soon)*
+📁 [https://github.com/KousikaRavi/A-OEM-Enterprise-Analytics]
 
 ---
 
